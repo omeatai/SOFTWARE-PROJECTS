@@ -11,3 +11,6 @@ by Ifeanyi Omeata
 - [ ] [REACT-MOVIE-SEARCH-APP](https://github.com/omeatai/project-movie-search-app)
 - [ ] [MERN-PROJECT-LIBRARY-TRACKER](https://github.com/omeatai/project-mern-library-tracker)
 - [ ] [MERN-PROJECT-AUTH-REDUX-TOOLKIT-APP](https://github.com/omeatai/project-mern-auth-redux)
+- [ ] [AI-STOCK-PREDICTOR-APP](https://github.com/omeatai/project-ai-stock-predictor-app)
+- [ ] [EXPANDING-CARD-SLIDER](https://github.com/omeatai/project-expanding-cards-slider)
+- [ ] [RESPONSIVE-IMAGE-GALLERY](https://github.com/omeatai/project-responsive-image-gallery)
