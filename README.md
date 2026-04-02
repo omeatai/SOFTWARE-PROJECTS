@@ -1,8 +1,8 @@
-# SOFTWARE-PROJECTS
+# MY-SOFTWARE-PROJECTS
 
 by Ifeanyi Omeata
 
-#### Join me as I complete 200+ Software Dev Projects. Follow my Youtube channel at https://www.youtube.com/@omeatai
+#### Join me as I complete Software Dev Projects. Follow my YouTube channel at https://www.youtube.com/@omeatai
 
 - [ ] [REACT-FIREBASE-TODO-APP](https://github.com/omeatai/project-firebase-todo-app)
 - [ ] [NEXT-OPEN-WEATHER-APP](https://github.com/omeatai/project-open-weather-app)
